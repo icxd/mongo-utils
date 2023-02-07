@@ -22,4 +22,12 @@
         </dependency>
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub icxd Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/icxd/mongo-utils</url>
+        </repository>
+    </distributionManagement>
+
 </project>
